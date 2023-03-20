@@ -1,0 +1,111 @@
+.letitre
+{
+    font-size: 200px;
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.lepremiertableau
+{
+    background-color: darkgrey;
+}
+.lepremiertxtenbleu
+{
+    font-size: 45px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ladernierephotodelimmeuble
+{
+    background-color: darkgrey;
+}
+.lepetittableaubleu
+{
+    background-color: blue;
+}
+.lebut
+{
+    color: blue;
+}
+.Missionn
+{
+    color: blue;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Butss
+{
+    color: blue;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.MissObj
+{
+    color: blue;
+    font-size: 65px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.carrebleu
+{
+background-color: blue;
+}
+.txtcarrebleu
+{
+    color: rgb(250, 250, 250);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lederniergrandtableau
+{
+    background-color: darkgrey;
+}
+.letoutderniertableau
+{
+    background-color: darkgray;
+}
+.lederniertxtbleu
+{
+    color: blue;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ledernierblocenbleu
+{
+    font-size: 45px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lescottesblanches
+{
+    color: white;
+    font-size: 65px;
+}
+.Rdvequipe
+{
+    color: blue;
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.couleurtxtchefdequipe
+{
+    color: darkgrey;
+}
+.solns
+{
+    color: white;
+    font-size: 95px;
+}
+.txtnouhabillons
+{
+    color: blue;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.expletitr
+{
+    font-size: larger;
+}
+.txtlieu
+{
+    color: blue;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
